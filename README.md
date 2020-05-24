@@ -2,7 +2,7 @@
 
 ## Welcome to the Amitor Users Manual
 
-You can use the [Amitor](https://amitor.com) to manage, collaborate, share files and offer your clients a client portal.
+You can use [Amitor](https://amitor.com) to manage, collaborate, share files and offer your clients a client portal.
 
 This is the place to get answers to the Amitor platform.
 
