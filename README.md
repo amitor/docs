@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Amitor Users Guide
 
-You can use the [editor on GitHub](https://github.com/amitor/docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Amitor Users Manual
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [Amitor](https://amitor.com) to manage, collaborate, share files and offer your clients a client portal.
 
-### Markdown
+This is the place to get answers to the Amitor platform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work in Progress
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amitor/docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thank you for patience. I am working hard to create the Amitor Users Manual.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Need immediate help? Please login into your Amitor [dashboard](https://amitor.com) and start a Bug Report.
+
+### Copyright Notice
+
+The Amitor User Manual is marked **CC-BY-SA-4.0.** Amitor is a registered trademark of ItNix, LLC.
